@@ -121,11 +121,19 @@ header
 .section2
 {
     width: 100%;
-    height: 80vh;
+    height: 100vh;
+    padding-top: 20px;
     
     
 }
 
+.section2 h1
+{
+    text-align: center;
+    margin-top: 100px;
+    font-size: 40px;
+
+}
 .squer img
 {
     width: 200px;
@@ -139,9 +147,10 @@ header
 }
 .section3
 {
-    width: 100%;
+    width: 90%;
     height: 80vh;
     background-image: url(img/pancakes-with-berries-4k-blueberries-strawberries-mint.jpg);
+    margin-left: 70px;
 }
 .section4
 {
@@ -193,7 +202,7 @@ header
 .section5
 {
     width: 100%;
-    height: 90vh;
+    height: 70vh;
     position: relative;
 }
 .section5 .squer3
@@ -231,4 +240,57 @@ header
 {
     width: 10%;
     height: 25px;
+}
+.head1 h1
+{
+    font-size: 30px;
+}
+.head1 h3
+{
+    font-size: 20px;
+}
+.section6
+{
+    text-align: center;
+    
+}
+.section6
+{
+    width: 100%;
+    height: 65vh;
+}
+.emo
+{
+    padding-top: 120px;
+}
+.emo .d1
+{
+    display: inline-block;
+    padding: 30px;
+}
+
+.section7
+{
+    width: 100%;
+    height: 100vh;
+    align-items: center;
+}
+.section7 h1
+{
+    text-align: center;
+    font-size: 30px;
+    padding-top: 40px;
+}
+.blog img
+{
+    width: 400px;
+    height: 400px;
+}
+.blog 
+{
+    margin-top: 50px;
+    display: inline;
+    padding-left: 220px;
+   
+   
 }
