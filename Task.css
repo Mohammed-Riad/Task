@@ -1,0 +1,234 @@
+*
+{
+    margin:0;
+    padding:0;
+   
+    color: black
+    
+
+}
+
+
+/* header */
+
+.div2
+{
+   position: absolute;
+    font-size: 20px;
+    left: 30%;
+}
+.div2 ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+.div2 ul li
+{
+   list-style-type: none;
+   display: inline;
+   padding: 8px;
+}
+.div3
+{
+    position: absolute;
+    left: 80%;
+    font-size: 20px;
+    
+   
+}
+.div3 ul li
+{
+   list-style-type: none;
+   display: inline;
+   padding: 8px;
+}
+.div1
+{
+    position: absolute;
+    left: 20%;
+    border-radius: 6px;
+}
+.container
+{
+   position: relative;
+    background-color: black;
+}
+.div1 span
+{
+   font-size: 20px;
+   
+}
+.container ul li:hover
+{
+    background-color: #bbded7;
+    color: #e53313;
+ cursor: pointer;
+ border-radius: 7px;
+}
+.container span:hover
+{
+ background-color: #bbded7;
+ color: #e53313;
+ cursor: pointer;
+ border-radius: 7px;
+}
+.container
+{
+    margin-top: 8px;
+    
+}
+header
+{
+   
+    background-color: #e53313;
+}
+/*  end header */
+
+/* section1 */
+.section1
+{
+     background-image: url(img/pancakes-with-berries-4k-blueberries-strawberries-mint.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    width: 100%;
+    height: 90vh;
+    text-align: center;
+    position: relative;
+    
+    
+}
+.section1 h1
+{
+    position: absolute;
+    top: 50%;
+    left: 42%;
+    font-size: 30px;   
+    background:none;
+    color: #fff;
+    
+}
+.section1 p
+{
+    position: absolute;
+    top: 59%;
+    left: 30%;
+    font-size: 30px;   
+    background:none;
+    color: #fff;
+    
+}
+.section2
+{
+    width: 100%;
+    height: 80vh;
+    
+    
+}
+
+.squer img
+{
+    width: 200px;
+    height: 200px;
+}
+.squer 
+{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.section3
+{
+    width: 100%;
+    height: 80vh;
+    background-image: url(img/pancakes-with-berries-4k-blueberries-strawberries-mint.jpg);
+}
+.section4
+{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+}
+.section4 .squer1
+{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.section4 .squer1 img
+{
+  width: 400px;
+  height: 400px;
+}
+.section4 .squer2
+{
+    display: inline-block;
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.section4 
+{
+    color: black;
+}
+.squer2
+{
+    position: absolute;
+    left:40%;
+    top: 25%;
+   margin:10px ;
+}
+.squer2 h1
+{
+    font-size: 40px;
+}
+.squer2 p
+{
+    font-size: 25px;
+}
+.squer2 button
+{
+    width: 20%;
+    height: 25px;
+}
+.section5
+{
+    width: 100%;
+    height: 90vh;
+    position: relative;
+}
+.section5 .squer3
+{
+   
+    margin-left: 200px;
+    margin-top: 200px;
+}
+.section5 .squer4 img
+{
+    width: 400px;
+    height: 400px;
+}
+.squer3 h3
+{
+    font-size: 40px;
+} 
+.squer3 p
+{
+    font-size: 20px;
+}
+.squer4
+{
+    position: absolute;
+    left:60%;
+    bottom: 55%;
+
+   
+}
+.squer3
+{
+    margin-top: 200px;
+}
+.squer3 button
+{
+    width: 10%;
+    height: 25px;
+}
