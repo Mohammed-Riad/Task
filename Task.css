@@ -152,6 +152,7 @@ header
     background-image: url(img/pancakes-with-berries-4k-blueberries-strawberries-mint.jpg);
     margin-left: 70px;
 }
+
 .section4
 {
     width: 100%;
@@ -293,4 +294,49 @@ header
     padding-left: 220px;
    
    
+}
+.active
+{
+   
+    position: absolute;
+    left: 220px;
+   
+}
+.active1
+{
+   
+    position: absolute;
+    left: 59.50%;
+   
+}
+.yes
+{
+    position: absolute;
+    left: 83%;   
+}
+.yes1
+{
+    position: absolute;
+    left: 39%;   
+}
+.news
+{
+    text-align: center;
+}
+.section8
+{
+    width: 100%;
+    height: 40vh;
+}
+.section8 .news
+{
+    margin-top: 120px;
+}
+.section8 .news h1
+{
+    font-size: 40px;
+}
+#input
+{
+    width: 20%;
 }
