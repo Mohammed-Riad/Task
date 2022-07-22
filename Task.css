@@ -152,7 +152,6 @@ header
     background-image: url(img/pancakes-with-berries-4k-blueberries-strawberries-mint.jpg);
     margin-left: 70px;
 }
-
 .section4
 {
     width: 100%;
@@ -167,6 +166,7 @@ header
 }
 .section4 .squer1 img
 {
+    display: inline-block;
   width: 400px;
   height: 400px;
 }
