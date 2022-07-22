@@ -9,8 +9,8 @@
     height: 20px;
 }
 .form1 img{
-    width: 300px;
-    height: 300px;
+    width: 400px;
+    height: 400px;
 }
 .conainer
 {
@@ -38,3 +38,14 @@ table, th, td {
     margin-left: 220px;
     margin-top: 200px;
   }
+  .form
+  {
+    padding-top: 120px;
+    padding-left: 210px;
+  }
+  .form1
+
+  {position: absolute;
+left: 65%;
+bottom: 20%;
+}
