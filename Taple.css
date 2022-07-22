@@ -9,14 +9,14 @@
     height: 20px;
 }
 .form1 img{
-    width: 400px;
+    width: 450px;
     height: 400px;
+    border: 5px solid black;
 }
 .conainer
 {
     position: relative;
     width: 100%;
-    background-color: blue;
     height: 80vh;
 }
 .section1
@@ -32,11 +32,12 @@ table, th, td {
   {
     width: 60px;
   }
+  
   .section1 
   {
     text-align: center;
-    margin-left: 220px;
-    margin-top: 200px;
+    
+    margin-top: 130px;
   }
   .form
   {
@@ -45,7 +46,152 @@ table, th, td {
   }
   .form1
 
-  {position: absolute;
-left: 65%;
-bottom: 20%;
+  {
+  position: absolute;
+  left: 55%;
+  bottom: 11%;
+}
+
+/* header */
+
+.div2
+{
+   position: absolute;
+    font-size: 20px;
+    left: 30%;
+}
+.div2 ul li a
+{
+    text-decoration: none;
+    color: black;
+}
+.div2 ul li
+{
+   list-style-type: none;
+   display: inline;
+   padding: 8px;
+}
+.div3
+{
+    position: absolute;
+    left: 80%;
+    font-size: 20px;
+    
+   
+}
+.div3 ul li
+{
+   list-style-type: none;
+   display: inline;
+   padding: 8px;
+}
+.div1
+{
+    position: absolute;
+    left: 20%;
+    border-radius: 6px;
+}
+.container
+{
+   position: relative;
+    background-color: black;
+}
+.div1 span
+{
+   font-size: 20px;
+   
+}
+.container ul li:hover
+{
+   cursor: pointer;
+}
+.container span:hover
+{
+ background-color: #bbded7;
+ color: #e53313;
+ cursor: pointer;
+ border-radius: 7px;
+}
+.container
+{
+    margin-top: 8px;
+    margin-right: 80px;
+    
+}
+header
+{
+   
+    background-color: #e53313;
+}
+/* end header */
+/* section2 */
+.section2
+{
+  width: 100%;
+  height:60vh;
+  margin-top: 200px;
+  
+}
+.emo
+{
+    padding-top: 100px;
+    margin-left: 200px;
+   
+}
+.emo .d1
+{
+    display: inline-block;
+    padding: 30px;
+}
+.emo .d1
+{
+    border: 5px solid black;
+    margin:10px ;
+}
+/* end .section2 */
+
+/* Table */
+.table
+{
+    width:70%;
+    height: 50vh;
+    border: 1px solid black;
+    border-spacing: 1px;
+    background-color: white;
+    text-transform: capitalize;
+    color: #245a81;
+    
+    
+  
+}
+.section2
+{
+  width: 100%;
+}
+table
+{
+  margin-left: 220px;
+}
+table,tr,th
+{
+    border: 1px solid black;
+    border-collapse: collapse;
+    text-align: left;
+    padding-left: 25px;
+}
+
+.tr1
+{
+    background-color: #245a81;
+    color: white;
+    
+}
+.color
+{
+    background-color: #eeeeee;
+}
+.section1 h1
+{
+ font-size: 35px;
+ font-weight: bold;
 }

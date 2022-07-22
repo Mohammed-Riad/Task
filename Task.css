@@ -60,10 +60,7 @@
 }
 .container ul li:hover
 {
-    background-color: #bbded7;
-    color: #e53313;
- cursor: pointer;
- border-radius: 7px;
+    cursor: pointer;
 }
 .container span:hover
 {
@@ -379,4 +376,11 @@ header
 {
     border: 5px solid black;
     margin:10px ;
+}
+#btn1
+{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+
 }
