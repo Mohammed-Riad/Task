@@ -41,7 +41,7 @@ table, th, td {
   }
   .form
   {
-    padding-top: 120px;
+    padding-top: 110px;
     padding-left: 210px;
   }
   .form1
@@ -194,4 +194,11 @@ table,tr,th
 {
  font-size: 35px;
  font-weight: bold;
+}
+#btn2
+{
+    width: 100px;
+    background-color: black;
+    color: white;
+    cursor: pointer;
 }
